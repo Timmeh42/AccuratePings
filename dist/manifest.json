@@ -1,0 +1,9 @@
+{
+    "name": "Accurate Pings",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Timmeh42/AccuratePings",
+    "description": "Makes pinging things in the distance easier",
+    "dependencies": [
+        "bbepis-BepInExPack-1.3.1"
+    ]
+}

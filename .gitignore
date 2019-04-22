@@ -1,0 +1,6 @@
+.vs
+.gitattributes
+*/bin/
+*/obj/
+dist/*.dll
+dist/*.zip
